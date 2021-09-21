@@ -1,0 +1,14 @@
+{
+  "name": "sql-buku",
+  "version": "1.0.0",
+  "description": "belajar sql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "budi",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
+}
